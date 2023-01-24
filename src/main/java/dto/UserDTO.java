@@ -1,4 +1,4 @@
-package citrusHomework.pojo.user;
+package dto;
 
 import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
 import com.fasterxml.jackson.databind.annotation.JsonSerialize;

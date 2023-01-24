@@ -1,4 +1,4 @@
-package citrusHomework.pojo.user;
+package dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
